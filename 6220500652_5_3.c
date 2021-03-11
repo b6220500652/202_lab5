@@ -54,4 +54,5 @@ int main ()
             printf("%d",x[i]);
         }
     }
+    return 0;
 }
